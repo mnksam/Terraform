@@ -1,5 +1,5 @@
 resource "aws_security_group" "ssh_sg" {
-  name        = "terraform-ssh-sg"
+  name        = "terraform-ssh-sgg"
   description = "Allow SSH inbound traffic"
 
   ingress {
